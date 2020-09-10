@@ -22,6 +22,9 @@ How to Install
 
 open localhost/appfolder
 
+Need help installation ?? just play video tutorial
+https://youtu.be/CC1CRmO6qeU
+
 and get started now.
 
 made with ❤ by [https://mesinkasironline.web.app](https://mesinkasironline.web.app)
