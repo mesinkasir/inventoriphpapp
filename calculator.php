@@ -15,14 +15,55 @@
 		<div class="row">
 			<div class="col-12 col-12 p-3 p-md-5 text-center">
 				<center>
-					<script>
-						function dis(val){document.getElementById("result").value+=val}function solve(){let x=document.getElementById("result").value let y=eval(x)document.getElementById("result").value=y}function clr(){document.getElementById("result").value=""}
-					</script>
-					<style>
-						.title{margin-bottom:10px;text-align:center;width:610px;color:green;border:solid black 2px}input[type="button"]{background-color:cyan;color:black;border:solid black 2px;width:100%}input[type="text"]{background-color:white;border:solid black 2px;width:100%}
-					</style>
+
+				      <script> 
+         //function that display value 
+         function dis(val) 
+         { 
+             document.getElementById("result").value+=val 
+         } 
+           
+         //function that evaluates the digit and return result 
+         function solve() 
+         { 
+             let x = document.getElementById("result").value 
+             let y = eval(x) 
+             document.getElementById("result").value = y 
+         } 
+           
+         //function that clear the display 
+         function clr() 
+         { 
+             document.getElementById("result").value = "" 
+         } 
+      </script> 
+      <!-- for styling -->
+      <style> 
+         .title{ 
+         margin-bottom: 10px; 
+         text-align:center; 
+         width: 210px; 
+         color:green; 
+         border: solid black 2px; 
+         } 
+  
+         input[type="button"] 
+         { 
+         background-color:cyan; 
+         color: black; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+      </style> 
 					<h1>Calculator Digital</h1>
-					<table border="1" class="table bg-dark text-white rounded shadow">
+					<table border="1" class="table bg-dark rounded shadow">
 						<tr>
 							<td colspan="3">
 								<input type="text" class="rounded p-3" id="result" />
