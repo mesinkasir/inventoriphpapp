@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Inventori stock management
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/inventoriphpapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Simple inventori system develope using native PHP version 7 with mysql databased, include bootstrap for UI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%285%29.png/max/max/1)
 
-### Markdown
+![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%281%29.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%286%29.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Requipment :
+XAMPP for apache web server and mysql databased.
 
-# Header 1
-## Header 2
-### Header 3
+How to Install 
++ Run XAMPP server
++ Download inventori apps or fork/ cone it 
++ Extract download folder to C:\xampp\htdocs\appfolder
++ Open php myadmin on web browser and visit
++ localhost/phpmyadmin
++ create new databased and name it with inventori
++ import inventori.sql databased on appfolder 
 
-- Bulleted
-- List
+open localhost/appfolder
 
-1. Numbered
-2. List
+Need help installation ?? just play video tutorial
+https://youtu.be/CC1CRmO6qeU
 
-**Bold** and _Italic_ and `Code` text
+and get started now.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/inventoriphpapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+made with ❤ by [https://mesinkasironline.web.app](https://mesinkasironline.web.app)
