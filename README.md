@@ -1,5 +1,7 @@
 # Inventori stock management
 
+For documentation and installation full : https://www.hockeycomputindo.com/2020/09/inventori-apps-free-download-source.html
+
 ### Simple inventori system develope using native PHP version 7 with mysql databased, include bootstrap for UI.
 
 ![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%285%29.png/max/max/1)
@@ -26,5 +28,8 @@ Need help installation ?? just play video tutorial
 https://youtu.be/CC1CRmO6qeU
 
 and get started now.
+
+For documentation and installation full : https://www.hockeycomputindo.com/2020/09/inventori-apps-free-download-source.html
+
 
 made with ❤ by [https://mesinkasironline.web.app](https://mesinkasironline.web.app)
