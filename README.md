@@ -4,9 +4,7 @@ For documentation and installation full : https://www.hockeycomputindo.com/2020/
 
 ### Simple inventori system develope using native PHP with mysql databased, include bootstrap for UI.
 
-![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%281%29.png/max/max/1)
-
-![Inventori stok application](https://a.fsdn.com/con/app/proj/kasirapp/screenshots/inventoriapps%20%286%29.png/max/max/1)
+![Inventori stok application](https://1.bp.blogspot.com/-sLFUjphyYOg/YPD30AATC1I/AAAAAAAAP4A/2IF6tvMPPQY5KjXZ_ehqOiKPC7aFbkFrACLcBGAsYHQ/s1140/aplikasi%2Btoko%2Bstok%2Binventori.png)
 
 Requipment :
 XAMPP for apache web server and mysql databased.
